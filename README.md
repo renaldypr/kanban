@@ -1,4 +1,5 @@
 # kanban
+A kanban board web app, build with Vue.js and Firebase. Give it a try at https://kanban.renaldypratama.xyz/
 
 ## Project setup
 ```
